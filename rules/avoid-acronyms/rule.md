@@ -1,19 +1,18 @@
 ---
 seoDescription: Avoid using uncommon acronyms in your writing to ensure clear communication and prevent confusion. Instead, opt for the full term or phrase to maintain clarity and understanding.
 type: rule
-title:     Do you avoid uncommon acronyms in your writing?
-uri: avoid-acronyms 
+title: Do you avoid uncommon acronyms in your writing?
+uri: avoid-acronyms
 authors:
   - title: Ash Anil
     url: https://www.ssw.com.au/people/ash-anil
   - title: Chris Schultz
-    url: https://www.ssw.com.au/people/chris-schultz 
+    url: https://www.ssw.com.au/people/chris-schultz
   - title: Joanna Feely
-    url: https://ssw.com.au/people/joanna-feely 
+    url: https://ssw.com.au/people/joanna-feely
   - title: Jayden Alchin
     url: https://ssw.com.au/people/jayden-alchin
 related: []
-created: 2023-06-01T00:22:32.616Z
 guid: 87950bac-d6fa-4c6b-8010-2bbca85ae5c9
 ---
 
