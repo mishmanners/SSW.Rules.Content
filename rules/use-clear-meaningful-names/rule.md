@@ -55,16 +55,12 @@ Full, meaningful words make your code readable and maintainable.
 Bad example - Being clever for you can cause confusion to others  - they might misinterpret "energy" as something else, like power or ammo. Then if you add enemies, would you name their energy variable `nmeNrg`?
 :::  
 
-
-
 :::greybox
 `PlayerHealth` - clearly describes the specific kind of "energy" (health) and who it belongs to (the player)
 :::
 :::good
 Good example - instantly understandable to anyone reading the code
 :::  
-
-
 
 Now let’s say you’re working on an invitation and activation feature. You need a variable to store the validity period for an invitation - the live time.
 
@@ -74,8 +70,6 @@ Now let’s say you’re working on an invitation and activation feature. You ne
 :::bad
 Bad example - others will have fun deciphering this one
 :::  
-
-
 
 :::greybox
 `InvitationTimeRemainingInDays` - no explanation needed here!
@@ -91,8 +85,6 @@ Good example - leaves no room for misinterpretation and makes the purpose obviou
 Bad example - Validating what exactly? Login credentials? Profile information? Something else?
 :::  
 
-
-
 :::greybox
 `UserValidationHandler` - indicates it’s an engine responsible for executing multiple rules to handle user-related validation
 
@@ -102,8 +94,6 @@ Bad example - Validating what exactly? Login credentials? Profile information? S
 :::good
 Good example - the definition of the classes is in their names
 :::  
-
-
 
 :::info
 **Remember:** Names should always describe what something represents without mental gymnastics to decode it.
