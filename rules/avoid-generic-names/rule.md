@@ -49,7 +49,6 @@ Bad example - while this name suggests that it might have something to do with o
 Good example - This name directly reflects its purpose, making it immediately clear what the class is responsible for
 :::  
 
-
 :::greybox
 `UserData` - tracking the data for each user account
 :::
